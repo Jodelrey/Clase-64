@@ -1,0 +1,26 @@
+.mb-2 {
+  margin-bottom: 20px;
+}
+
+.p-1 {
+  padding: 1.25em;
+}
+
+.title {
+  text-align: center;
+}
+
+.tab-container {
+  margin-bottom: 30px;
+}
+
+.dropdown-content {
+  overflow: auto;
+  max-height: 300px;
+}
+
+.image,
+.image img {
+  height: 100%;
+}
+  
